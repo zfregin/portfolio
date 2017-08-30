@@ -11,4 +11,4 @@ This repository contains the solutions I developed for programming challenges.
 
 #### SQL Database
 
-* Built a [public library database](/SQL) for book management
+* Built a [public library database](/Projects/SQL) for book management
