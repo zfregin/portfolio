@@ -8,3 +8,5 @@ This repository contains the solutions I developed for programming challenges.
 #### HTML & CSS
 
 * Built a [login page](/Projects/Login Page) using HTML
+
+#### SQL Database
