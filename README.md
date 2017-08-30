@@ -7,4 +7,8 @@ This repository contains the solutions I developed for programming challenges.
 
 #### HTML & CSS
 
-* Built a [login page](/Projects/Login-Page) using HTML
+* Built a [login page](/Projects/HTML-CSS/Login-Page) using HTML
+
+#### SQL Database
+
+* Built a [public library database](/SQL) for book management
