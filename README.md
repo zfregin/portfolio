@@ -8,7 +8,7 @@ This repository contains the solutions I developed for programming challenges.
 #### HTML & CSS
 
 * Built a [login page](/Projects/HTML-CSS/Login-Page) using HTML
-* Created a [personal webpage](/zfregin.github.io)
+* Created a [personal webpage](https://github.com/zfregin/zfregin.github.io)
 
 #### SQL Database
 
