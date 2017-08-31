@@ -9,6 +9,6 @@ The first step I took was to look at the relationships of the flow chart and eva
 
 Part of the project was to answer a set of questions by using SQL queries and inner joins. The results of these queries were then made accessible by writing them into a stored procedure.
 
-I have uploaded stored procedures to both [build/populate the database](/SP_lib_system_build.sql) and [run queries](/Lib Project SP.sql)
+I have uploaded stored procedures to both [build/populate the database](/Projects/SQL/SP_lib_system_build.sql) and [run queries](/Lib Project SP.sql)
 
 #### The Result
