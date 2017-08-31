@@ -8,6 +8,7 @@ This repository contains the solutions I developed for programming challenges.
 #### HTML & CSS
 
 * Built a [login page](/Projects/HTML-CSS/Login-Page) using HTML
+* Created a [personal webpage](https://github.com/zfregin/zfregin.github.io)
 
 #### SQL Database
 
@@ -16,3 +17,9 @@ This repository contains the solutions I developed for programming challenges.
 #### JavaScript
 
 * Built an [online ordering menu](/Projects/JavaScript/Pizza-Menu) for a pizza restaurant
+
+#### Python
+
+* Created a [datetime script](/Projects/Python/DateTime-Drill)
+* Built a [file transfer GUI](/Projects/Python/File-Transfer-GUI) application
+* Built a [file transfer database](/Projects/Python/File-Transfer-DB) program using Python and SQLite
