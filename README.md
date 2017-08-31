@@ -12,3 +12,7 @@ This repository contains the solutions I developed for programming challenges.
 #### SQL Database
 
 * Built a [public library database](/Projects/SQL) for book management
+
+#### JavaScript
+
+* Built an [online ordering menu](/Projects/JavaScript/Pizza-Menu) for a pizza restaurant
