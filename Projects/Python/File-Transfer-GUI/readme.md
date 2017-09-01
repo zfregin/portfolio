@@ -3,11 +3,14 @@
 
 #### Objective
 
+The scenario for this project is that in your company employees create and edit a collection of text files throughout the day that represent data about customer orders. Once each day any files that are new or have been edited within the last 24 hours need to be sent to the main office. This is accomplished by sending all the new or updated files to a destination folder for file transfer. The process of determining which files are new or updated and then copying them to the destination folder is currently being done manually. You have been asked to create a script that will help automate this task and provide employees a graphical user interface to specify the folders to transfer to and from, saving the company money in the long run.
 
 #### Steps Taken
 
+I started out by using the Tkinter Python library to build the GUI that would take user input. Tkinter is a great library with very useful toolkits, and the use of themed Tk widgets allows the elements to take on a theme that matches the native desktop environment running the program. Once the GUI was established I worked on adding the functionality. In my implementation research I determined using the os.walk function would be the best way to iterate through files and check whether transfer was needed. Because only text files are being asked to transfer I used the filename pattern matching Python module, fnmatch. This checked for files ending with the .txt extension.
+
 #### The Result
 
-
+I was able to produce a simple, clean GUI where users could easily specify source and destination folders and transfer files with the click of a button. For simplicity I elected to only allow users to navigate to folders using the native file dialog window. I could have allowed users to type or paste the folder paths into the input fields but I knew I would have to address error cases for mistakes and invalid paths, so I decided to avoid these errors altogether by only allowing the selection of valid paths offered by the file dialog. I also learned a bit about how file data is stored and accessed across platforms. This program currently only works for Windows due to the function used to retrieve the last modification time of the files. The platforms for Windows, Mac, and Linux all store this data slightly differently, so a different method of checking for modification time is required for each platform. This program could be made cross-platform compatible, however, by simply checking which environment the program is running in and using the appropriate functions to access the file data. Another takeway from this project was that I learned about lambda functions. A lambda function is a small function with no name that is only needed where it has been created. It requires an expression with a return value and can accept arguments to be used by the expression. Often times a lambda function will be used to call on another function, which was the use here when it called the file transfer function "recent_changes()" upon the user click action of the transfer button.
 
 [Return to portfolio](https://github.com/zfregin/portfolio)
