@@ -7,7 +7,7 @@ The scenario for this project is that in your company employees create and edit 
 
 #### Steps Taken
 
-I started out by using the Tkinter Python library to build the GUI that would take user input. Tkinter is a great library with very useful toolkits, and the use of themed Tk widgets allows the elements to take on a theme that matches the native desktop environment running the program. Once the GUI was established I worked on adding the functionality. In my implementation research I determined using the os.walk function would be the best way to iterate through files and check whether transfer was needed. Because only text files are being asked to transfer I used the filename pattern matching Python module, fnmatch. This checked for files ending with the .txt extension.
+I started out by using the Tkinter Python library to build the GUI that would take user input. Tkinter is a great library with very useful toolkits, and the use of themed Tk widgets allows the elements to take on a theme that matches the native desktop environment running the program. Once the GUI was established I worked on adding the functionality. In my implementation research I determined using the os.walk function would be the best way to iterate through files and check whether transfer was needed. Because only text files are being asked to transfer I used the Python module for filename pattern matching, fnmatch. This checked for files ending with the .txt extension.
 
 #### The Result
 
