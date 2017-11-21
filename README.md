@@ -24,5 +24,12 @@ This repository contains the solutions I developed for programming challenges.
 * Built a [file transfer GUI](/Projects/Python/File-Transfer-GUI) application
 * Built a [file transfer database](/Projects/Python/File-Transfer-DB) program using Python and SQLite
 
+#### C#
+
+* Created a [card game](/Projects/C#/WarChallenge)
+* Made a [slot machine game](/Projects/C#/CasinoChallenge)
+* Built a [restaurant web app](/Projects/C#/PapaBobs) with database and order management functionality
+* Front-end development on a [social media website](/Projects/C#/Bewander)
+
 ***
 In addition to these, I have a hodgepodge of practice exercises and working projects in [sanguine singularity](https://github.com/zfregin/sanguine-singularity)
