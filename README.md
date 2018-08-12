@@ -23,7 +23,7 @@ This repository contains the solutions I developed for programming challenges.
 * Created a [datetime script](/Projects/Python/DateTime-Drill)
 * Built a [file transfer GUI](/Projects/Python/File-Transfer-GUI) application
 * Built a [file transfer database](/Projects/Python/File-Transfer-DB) program using Python and SQLite
-* Data analysis on [TriMet MAX Light Rail](https://github.com/zfregin/DataScience)
+* Data analysis on [TriMet MAX Light Rail](https://github.com/zfregin/DataScience/tree/master/TriMet_Rails)
 
 #### C#
 
